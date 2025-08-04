@@ -1,4 +1,3 @@
-streamlit==1.37.1
-google.generativeai
-langchain.prompts
-datetime
+streamlit
+google-generativeai
+langchain
